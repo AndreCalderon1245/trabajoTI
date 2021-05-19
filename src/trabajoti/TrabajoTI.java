@@ -54,9 +54,11 @@ public class TrabajoTI {
     
     public static void Habilidades(){
     
-    habilidades = new String[1];
+    habilidades = new String[3];
         
-    habilidades[0] = "programación web, base de datos, configuración de servidores";
+    habilidades[0] = "programación web";
+    habilidades[1] = "base de datos";
+    habilidades[2] = "configuración de servidores";
     
     }
     
